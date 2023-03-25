@@ -13,7 +13,7 @@ function showMenu() {
 
     } else {
         menuBar.classList.add('hidden');
-        menuEx.setAttribute('class', 'md:hidden block');
+        menuEx.setAttribute('class', 'md:hidden block px-4');
     }
 }
 
